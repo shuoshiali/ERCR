@@ -1,6 +1,5 @@
 """
 SeCon-RAG
-https://arxiv.org/abs/2510.09710
 """
 
 import re

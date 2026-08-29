@@ -1,6 +1,5 @@
 """
 EcoSafeRAG
-arXiv:2505.13506 (Findings of EMNLP 2025)
 """
 
 import os

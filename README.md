@@ -1,3 +1,3 @@
-# ERCR RAG:
+# ERCR RAG
 ###
 Evidence Refinement and Conflict Resolution RAG.
